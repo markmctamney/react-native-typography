@@ -13,6 +13,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/markmctamney/react-native-typography"
   }
 }
