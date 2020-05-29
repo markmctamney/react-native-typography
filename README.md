@@ -46,7 +46,7 @@ And it will look like this:
 ### Example app
 
 * You can run the example app
-  [via Expo](https://expo.io/@hectahertz/react-native-typography-example) or
+  [via Expo](https://expo.io/@markmctamney/react-native-typography-example) or
   [check the code](example/App.js), all of the screenshots are taken directly
   from there!
 
